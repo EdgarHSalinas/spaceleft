@@ -1,0 +1,15 @@
+{
+  "name": "spaceleft",
+  "version": "1.0.1",
+  "description": "Left indent spaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Left",
+    "Padding"
+  ],
+  "author": "Edgar Salinas <edgar@my.codergv.org> (https://github.com/EdgarHSalinas)",
+  "license": "ISC"
+}

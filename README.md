@@ -25,3 +25,4 @@ spaceleft('Edgar', 5)
 
 **NOTE:** 
 Github: https://github.com/EdgarHSalinas
+NPM: https://www.npmjs.com/~edgarsalinas
